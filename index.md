@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Student: Mu Zhu (mzhu5@ncsu.edu)
+Student: Ruijie (Sherry) Xi (rxi@ncsu.edu)
 
 Advisor: Munindar P. Singh (mpsingh@ncsu.edu)
 
