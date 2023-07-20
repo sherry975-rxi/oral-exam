@@ -17,6 +17,14 @@ Exam time: August 20th, 2021, 3:00pm - 5:00pm on Zoom
 
 <hr />
 
+## Title
+
+Decoding Morality in Social Media
+
+<hr />
+
+<hr />
+
 ### Abstract
 
 Morality presents a complex challenge within society, encompassing a broad spectrum of ethical dilemmas and conflicting perspectives. This research focuses on three crucial aspects -- blame assignment, moral reasoning, and moral incidents -- to explore real-life morality through insights gained from moral scenarios unfolding within social media platforms. These scenarios involve interpersonal moral situations shared by authors and judgments of whose behaviors were inappropriate provided by other users. By adopting Natural Language Processing (NLP) technologies, we consider psychological theories and social commonsense with linguistic characteristics of the descriptive moral situations to explore how individuals perceive and respond to these situations. Through this comprehensive analysis, we aim to gain deeper insights into the intricate dynamics of real-life morality.
