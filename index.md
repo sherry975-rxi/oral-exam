@@ -10,8 +10,8 @@ Exam time: August 20th, 2021, 3:00pm - 5:00pm on Zoom
 
 ## Commitee:
 - Munindar P. Singh (Chair)
-- James Lester
 - Christopher Healey
+- James Lester
 - Kelly Lynn Mulvey
 
 
@@ -36,7 +36,7 @@ Overall, this research offers computational approaches to address challenges rel
 <hr />
 
 ### Proposal:
-- [Version 1 (July 12 th, 2023)](./oral_proposal/first_version.pdf)
+- [Version 1 (July 20 th, 2023)](./oral_proposal/first_version.pdf)
 
 ### Slide:
-- [Slides (July 20 th, 2023)](./oral_proposal/slides.pdf)
+<!-- - [Slides (July 20 th, 2023)](./oral_proposal/slides.pdf) -->
