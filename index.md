@@ -21,9 +21,6 @@ Exam time: August 20th, 2021, 3:00pm - 5:00pm on Zoom
 
 Decoding Morality in Social Media
 
-<hr />
-
-<hr />
 
 ### Abstract
 
